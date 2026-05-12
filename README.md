@@ -6,3 +6,5 @@ Daily core java practise and concept learning
 -Variable
 -Data Types
 -Operator
+-conditional statement
+-loops
